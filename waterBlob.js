@@ -1,7 +1,6 @@
 /**
  *
- * waterBlob
- *
+ * waterBlob beta
  *
  * author eightyfour
  */
