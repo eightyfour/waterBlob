@@ -1,3 +1,8 @@
+/**
+ * waterBlob
+ *
+ * author eightyfour
+ */
 (function($){
 
     var $root,conf,$canvasBlob,
