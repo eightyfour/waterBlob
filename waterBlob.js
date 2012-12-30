@@ -42,7 +42,7 @@
 
                 $blobClone.appendTo($('body'));
                 ctx = $blobClone[0].getContext('2d');
-
+                // animate blob effect
                 (function blob(){
 
                     if(radius < (conf.length/2)){
