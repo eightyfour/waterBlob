@@ -11,4 +11,4 @@ All what you have to do is to include the js file in your code:
   <script src="/js/$waterBlob.js"></script>
 ```
 
-Note: it will only work when the client browser supports the canvas element. There is no fallback.
+Note: It will only work for browsers there supports the canvas element. There is no fallback.
